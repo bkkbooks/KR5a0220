@@ -737,6 +737,7 @@ markers:
   - {type: line-break, offset: 1656, content: '', id: KR5a0220_SJB_032-030786c02}
   - {type: indent, offset: 1656, content: 　, id: KR5a0220_ZTDZ_032-bkkind36}
   - {type: punctuation, offset: 1656, content: (, id: KR5a0220_ZTDZ_032-bkkpn25}
+  - {type: voice, offset: 1656, length: 20, name: note, id: n1}
   - {type: punctuation, offset: 1657, content: ), id: KR5a0220_ZTDZ_032-bkkpn26}
   - {type: paragraph-break, offset: 1657, content: '
 
@@ -945,6 +946,7 @@ markers:
   - {type: line-break, offset: 1726, content: '', id: KR5a0220_SJB_032-030787b06}
   - {type: indent, offset: 1726, content: 　, id: KR5a0220_ZTDZ_032-bkkind55}
   - {type: punctuation, offset: 1726, content: (, id: KR5a0220_ZTDZ_032-bkkpn75}
+  - {type: voice, offset: 1726, length: 19, name: note, id: n2}
   - {type: punctuation, offset: 1727, content: ), id: KR5a0220_ZTDZ_032-bkkpn76}
   - {type: paragraph-break, offset: 1727, content: '
 
@@ -1155,6 +1157,7 @@ markers:
   - {type: line-break, offset: 1795, content: '', id: KR5a0220_SJB_032-030788a09}
   - {type: indent, offset: 1795, content: 　, id: KR5a0220_ZTDZ_032-bkkind74}
   - {type: punctuation, offset: 1795, content: (, id: KR5a0220_ZTDZ_032-bkkpn124}
+  - {type: voice, offset: 1795, length: 20, name: note, id: n3}
   - {type: punctuation, offset: 1796, content: ), id: KR5a0220_ZTDZ_032-bkkpn125}
   - {type: paragraph-break, offset: 1796, content: '
 
@@ -1367,6 +1370,7 @@ markers:
   - {type: line-break, offset: 1863, content: '', id: KR5a0220_SJB_032-030788c11}
   - {type: indent, offset: 1863, content: 　, id: KR5a0220_ZTDZ_032-bkkind93}
   - {type: punctuation, offset: 1863, content: (, id: KR5a0220_ZTDZ_032-bkkpn174}
+  - {type: voice, offset: 1863, length: 20, name: note, id: n4}
   - {type: punctuation, offset: 1864, content: /, id: KR5a0220_ZTDZ_032-bkkpn175}
   - {type: punctuation, offset: 1865, content: ), id: KR5a0220_ZTDZ_032-bkkpn176}
   - {type: paragraph-break, offset: 1865, content: '
@@ -1560,4 +1564,4 @@ markers:
 
       ', id: KR5a0220_ZTDZ_032-bkkp81}
   back: []
-hash: sha256:094d46a9f1206cbfbcdc723e750f022726097acc36e80f2b454b4c7c803bfe93
+hash: sha256:af435187aaee3aabac4fd730a20dce5bb62229210507aeae71bb9b03294cf928

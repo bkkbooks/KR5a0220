@@ -155,6 +155,7 @@ markers:
       ', id: KR5a0220_HFL_072-bkkkrnewl36}
   - {type: line-break, offset: 491, content: '', id: KR5a0220_HFL_072-002b04}
   - {type: punctuation, offset: 492, content: (, id: KR5a0220_HFL_072-bkkpn1}
+  - {type: voice, offset: 492, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 493, content: ), id: KR5a0220_HFL_072-bkkpn2}
   - {type: 'kr:newline', offset: 508, content: '
 
@@ -236,6 +237,7 @@ markers:
       ', id: KR5a0220_HFL_072-bkkkrnewl55}
   - {type: line-break, offset: 737, content: '', id: KR5a0220_HFL_072-003b01}
   - {type: punctuation, offset: 737, content: (, id: KR5a0220_HFL_072-bkkpn3}
+  - {type: voice, offset: 737, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 738, content: ), id: KR5a0220_HFL_072-bkkpn4}
   - {type: 'kr:newline', offset: 754, content: '
 
@@ -392,6 +394,7 @@ markers:
       ', id: KR5a0220_HFL_072-bkkkrnewl92}
   - {type: line-break, offset: 1209, content: '', id: KR5a0220_HFL_072-005a05}
   - {type: punctuation, offset: 1224, content: (, id: KR5a0220_HFL_072-bkkpn5}
+  - {type: voice, offset: 1224, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1225, content: ), id: KR5a0220_HFL_072-bkkpn6}
   - {type: 'kr:newline', offset: 1226, content: '
 
@@ -607,6 +610,7 @@ markers:
   - {type: line-break, offset: 1931, content: '', id: KR5a0220_HFL_072-007b02}
   - {type: indent, offset: 1931, content: 　　　, id: KR5a0220_HFL_072-bkkind17}
   - {type: punctuation, offset: 1934, content: (, id: KR5a0220_HFL_072-bkkpn7}
+  - {type: voice, offset: 1934, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 1936, content: /, id: KR5a0220_HFL_072-bkkpn8}
   - {type: punctuation, offset: 1937, content: ), id: KR5a0220_HFL_072-bkkpn9}
   - {type: 'kr:newline', offset: 1937, content: '
@@ -1307,4 +1311,4 @@ markers:
 
       ', id: KR5a0220_HFL_072-bkkkrnewl309}
   back: []
-hash: sha256:f6ba28735cb2ffcbff06cd4ae2591d75ea7e9e8a7eb38109fbe2e71f76bdf5fd
+hash: sha256:efabf5278ccc0881a70d0168e546da7c7f186c413cb4eb8d281a9230a6dbb956

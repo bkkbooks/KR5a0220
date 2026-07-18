@@ -43,6 +43,7 @@ markers:
   - {type: line-break, offset: 28, content: '', id: KR5a0220_HFL_039-001a05}
   - {type: indent, offset: 28, content: 　　　, id: KR5a0220_krp_039-bkkind4}
   - {type: punctuation, offset: 32, content: (, id: KR5a0220_krp_039-bkkpn1}
+  - {type: voice, offset: 32, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 34, content: /, id: KR5a0220_krp_039-bkkpn2}
   - {type: punctuation, offset: 36, content: ), id: KR5a0220_krp_039-bkkpn3}
   - {type: 'kr:newline', offset: 36, content: '
@@ -646,6 +647,7 @@ markers:
   - {type: line-break, offset: 373, content: '', id: KR5a0220_HFL_039-008a05}
   - {type: substitution, offset: 374, original: 麽, replacement: 麼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19531}}
   - {type: punctuation, offset: 377, content: (, id: KR5a0220_krp_039-bkkpn4}
+  - {type: voice, offset: 377, length: 8, name: note, id: n2}
   - {type: substitution, offset: 379, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: punctuation, offset: 381, content: /, id: KR5a0220_krp_039-bkkpn5}
   - {type: punctuation, offset: 385, content: ), id: KR5a0220_krp_039-bkkpn6}
@@ -1004,4 +1006,4 @@ markers:
 
       ', id: KR5a0220_krp_039-bkkkrnewl246}
   back: []
-hash: sha256:1600da96d8f679396988f15f3de263e8f98bd956b9eeac623cffd4b83cead807
+hash: sha256:784472ead2f2ff6ea7789c2bc9ccc1f1a8cd1aee23668ce0629dae42c379bb39

@@ -149,6 +149,7 @@ markers:
       ', id: KR5a0220_ZTDZ_072-bkkkrnewl32}
   - {type: line-break, offset: 491, content: '', id: KR5a0220_SJB_072-031057c14}
   - {type: punctuation, offset: 492, content: (, id: KR5a0220_ZTDZ_072-bkkpn1}
+  - {type: voice, offset: 492, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 493, content: ), id: KR5a0220_ZTDZ_072-bkkpn2}
   - {type: 'kr:newline', offset: 508, content: '
 
@@ -227,6 +228,7 @@ markers:
       ', id: KR5a0220_ZTDZ_072-bkkp3}
   - {type: line-break, offset: 737, content: '', id: KR5a0220_SJB_072-031058a11}
   - {type: punctuation, offset: 737, content: (, id: KR5a0220_ZTDZ_072-bkkpn3}
+  - {type: voice, offset: 737, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 738, content: ), id: KR5a0220_ZTDZ_072-bkkpn4}
   - {type: 'kr:newline', offset: 754, content: '
 
@@ -380,6 +382,7 @@ markers:
       ', id: KR5a0220_ZTDZ_072-bkkkrnewl84}
   - {type: line-break, offset: 1209, content: '', id: KR5a0220_SJB_072-031058c05}
   - {type: punctuation, offset: 1224, content: (, id: KR5a0220_ZTDZ_072-bkkpn5}
+  - {type: voice, offset: 1224, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1225, content: ), id: KR5a0220_ZTDZ_072-bkkpn6}
   - {type: 'kr:newline', offset: 1226, content: '
 
@@ -589,6 +592,7 @@ markers:
   - {type: line-break, offset: 1931, content: '', id: KR5a0220_SJB_072-031059b12}
   - {type: indent, offset: 1931, content: 　　　, id: KR5a0220_ZTDZ_072-bkkind17}
   - {type: punctuation, offset: 1934, content: (, id: KR5a0220_ZTDZ_072-bkkpn8}
+  - {type: voice, offset: 1934, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 1936, content: /, id: KR5a0220_ZTDZ_072-bkkpn9}
   - {type: punctuation, offset: 1937, content: ), id: KR5a0220_ZTDZ_072-bkkpn10}
   - {type: 'kr:newline', offset: 1937, content: '
@@ -1187,4 +1191,4 @@ markers:
 
       ', id: KR5a0220_ZTDZ_072-bkkkrnewl219}
   back: []
-hash: sha256:c9c5e137b039aa329a1edba4e5d556b04d7f63ff2192a558f3d09e846a4cf715
+hash: sha256:ba227694bd8bdefd5a0bcefac119fa20c525dfe74ac16bd3df90be063191c6a3
